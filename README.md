@@ -26,7 +26,7 @@ To run the code in this repository, clone it to your local machine:
 
 ```bash
 git clone https://github.com/anantghuman/Machine-Learning-From-Scratch.git
-cd Machine-Learning-From-Scratch
+cd desired-Repository
 ```
 
 Make sure you have the required libraries installed:
