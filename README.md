@@ -47,10 +47,3 @@ Refer to the individual files for example usage and implementation details.
 
 # Datasets
 This project utilizes various datasets available on Kaggle. Ensure you have the datasets downloaded and accessible in your project directory. You can find suitable datasets at Kaggle Datasets.
-
-# Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-# Acknowledgments
-Kaggle for providing datasets.
-NumPy and pandas for powerful data manipulation.
